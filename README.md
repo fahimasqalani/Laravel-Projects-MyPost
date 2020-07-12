@@ -8,7 +8,7 @@ MyPost Web.
 Requirement
 ------------
 Composer
-XAMMP (or whatever sql server).
+XAMMP (or whatever sql server)
 
 Steps
 -----------
