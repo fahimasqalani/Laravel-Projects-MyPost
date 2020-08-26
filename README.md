@@ -1,7 +1,7 @@
 # Laravel-Projects-MyPost
 A website to share posts/stories/status 
 
-#credit to Traversy Media for this tutorial
+credit to Traversy Media for this tutorial
 
 MyPost Web
 
