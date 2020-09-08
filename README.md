@@ -13,7 +13,7 @@ XAMMP (or whatever sql server)
 
 Steps
 -----------
-Clone .git
+Clone git
 
 Run composer install
 
