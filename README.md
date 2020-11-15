@@ -28,3 +28,5 @@ Run php artisan migrate --seed
 Run php artisan storage:link
 
 Run php artisan serve
+
+----------------
