@@ -1,5 +1,5 @@
 # Laravel-Projects-MyPost
-A website to share posts/stories/status 
+A website for sharing posts/stories/status 
 
 Credit to Traversy Media for this tutorial
 
