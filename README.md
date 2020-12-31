@@ -3,7 +3,7 @@ A website for sharing posts/stories/status
 
 Credit to Traversy Media for this tutorial
 
-MyPost Web
+MyPost Website
 
 
 Requirement
