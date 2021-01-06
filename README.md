@@ -7,12 +7,12 @@ MyPost Website
 
 
 Requirement
----------------
+----------------
 Composer
 XAMMP (or whatever sql server)
 
 Steps
----------------
+----------------
 Clone git
 
 Run composer install
