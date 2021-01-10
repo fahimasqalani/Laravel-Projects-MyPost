@@ -7,7 +7,7 @@ MyPost Website
 
 
 Requirement
-----------------
+-----------------
 Composer
 XAMMP (or whatever sql server)
 
