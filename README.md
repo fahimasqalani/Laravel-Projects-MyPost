@@ -1,4 +1,4 @@
-# Laravel-Projects-MyPost
+## Laravel-Projects-MyPost
 A website for sharing posts/stories/status 
 
 Credit to Traversy Media for this tutorial
