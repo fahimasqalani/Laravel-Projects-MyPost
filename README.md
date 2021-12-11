@@ -1,18 +1,19 @@
-# Laravel-Projects-MyPost
-A website to share posts/stories/status 
-#credit to Traversy Media for this tutorial
+## Laravel-Projects-MyPost
+A website for sharing posts/stories/status 
 
-MyPost Web
-MyPost Web
+Credit to Traversy Media for this tutorial
+
+MyPost Website
+
 
 Requirement
-------------
+---------------------
 Composer
 XAMMP (or whatever sql server)
 
 Steps
------------
-Clone .git
+--------------------
+Clone git
 
 Run composer install
 
@@ -27,3 +28,5 @@ Run php artisan migrate --seed
 Run php artisan storage:link
 
 Run php artisan serve
+
+--------------------
